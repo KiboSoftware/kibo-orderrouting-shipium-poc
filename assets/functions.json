@@ -1,0 +1,14 @@
+{
+  "exports": [
+    {
+      "id": "http.commerce.routing.suggestion.before",
+      "virtualPath": "./dist/commerce.routing.manifest.all.js",
+      "actionId": "http.commerce.routing.suggestion.before"
+    },
+    {
+      "id": "embedded.platform.applications.install",
+      "virtualPath": "./dist/platform.applications.manifest.all.js",
+      "actionId": "embedded.platform.applications.install"
+    }
+  ]
+}
